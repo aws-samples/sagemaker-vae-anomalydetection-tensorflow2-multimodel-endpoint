@@ -1,6 +1,6 @@
 ## Variational Autoencoders for Anomaly Detection With Tensorflow On SageMaker
 
-This repository contains code for detecting anomalies using Variational Autoencoders and deploying multiple models on one SageMaker Rest API. The deep learning framework in use is Tensorflow.
+This repository contains code for detecting anomalies using Variational Autoencoders and deploying multiple models on one SageMaker Rest API. The deep learning framework in use is Tensorflow2.
 
 ## Environment Setup
 First, run the following commands in your terminal to create a new conda environment named `tf2-p36` which has the required dependencies.
