@@ -1,6 +1,6 @@
 ## Variational Autoencoders for Anomaly Detection With Tensorflow On SageMaker
 
-This repository contains code for detecting anomalies using Variational Autoencoders and deploying multiple models to a single TensorFlow Serving multi-model endpoint. The deep learning framework in use is Tensorflow2. The dataset in use is MNIST.
+This repository contains code to showcase how to detect anomalies using Variational Autoencoders and deploying multiple models to a single TensorFlow Serving multi-model endpoint. The deep learning framework in use is Tensorflow2. The dataset in use is MNIST.
 
 ## Environment Setup
 First, run the following commands in your terminal to create a new conda environment named `tf2-p36` which has the required dependencies.
