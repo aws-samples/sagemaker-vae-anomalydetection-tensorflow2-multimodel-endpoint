@@ -1,0 +1,21 @@
+name: tf2-p36
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=21.0.1=pyhd8ed1ab_0
+  - boto=2.49.0=py_0
+  - matplotlib=3.3.4=py36h5fab9bb_0
+  - matplotlib-base=3.3.4=py36hd391965_0
+  - numpy=1.19.5=py36h2aa4a07_1
+  - pandas=1.1.5=py36h284efc9_0
+  - scipy=1.5.3=py36h9e8f40b_0
+  - pip:
+    - argparse==1.4.0
+    - boto3==1.17.35
+    - botocore==1.20.35
+    - sagemaker==2.31.1
+    - sagemaker-pyspark==1.4.1
+    - sklearn==0.0
+    - tensorflow==2.4.1
+    - tensorflow-estimator==2.4.0
